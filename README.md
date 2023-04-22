@@ -11,7 +11,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- PokeAPI <a href: "https://pokeapi.co/"></a>
+- [PokeAPI](https://pokeapi.co/)
 - Git
 ---
-by [João A. Bonato](https://bonatoneto.github.io/devlinks/)
+Voce pode acessar essa aplicação clicando aqui --> bonatoneto.github.io/Pokedex/
+---
+<strong><p align="center">By [João A. Bonato](https://bonatoneto.github.io/devlinks/)</p></strong>
