@@ -4,7 +4,7 @@
   <img alt="" src="image/preview.png" width="100%">
 </p>
 
-Voce pode acessar essa aplicação clicando aqui: bonatoneto.github.io/Pokedex/
+Voce pode acessar essa aplicação clicando aqui: https://bonatoneto.github.io/Pokedex/
 
 ## 🚀 Tecnologias
 
